@@ -1,4 +1,4 @@
-#ArunSanyal_9523_BatchA
+
 #BruteForce
 import random
 
